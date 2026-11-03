@@ -19,9 +19,6 @@ Last updated: November 3, 2026 (2026年11月3日)　<br>
 <strong>Discord Bot・API Pretty good</strong> <br>
 <strong>Scratch Good</strong> <br>
 <strong>Game VERY GOOD!!!!! </strong> <br>
-## 📊 GitHub Stats
-
-![Hiromu0623's GitHub Stats]![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiromu0623)) <br>
 
 ### 💬 Thanks for visiting!
 詳しくは [Discord サポートサーバー](https://hiromu0623-discord-auth.pages.dev/support/) や[Scratch](https://scratch.mit.edu/users/Hiromu0623)をご覧ください！
