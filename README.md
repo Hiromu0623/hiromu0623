@@ -4,24 +4,24 @@
 [Scratch🐈](https://scratch.mit.edu/users/Hiromu0623/) <br>
 [discord Server🔥](https://hiromu0623-discord-auth.pages.dev/support/) <br>
 [discord Bot🤖](https://hiromu0623-discord-auth.pages.dev/)
-## Followers フォロワー👥
-Last updated: November 3, 2026 (2026年11月3日)
-**Scratch🐈** <strong>324</strong>
-**YouTube🎥** <strong>459</strong>
-**[Top Video Views👀](https://youtube.com/shorts/gWY0AemV5jM)** <strong>1,142,565 views</strong>
-**Discord Friends👥** <strong>50+</strong>
+## Followers フォロワー👥　
+Last updated: November 3, 2026 (2026年11月3日)　<br>
+**Scratch🐈** <strong>324</strong> <br>
+**YouTube🎥** <strong>459</strong> <br>
+**[Top Video Views👀](https://youtube.com/shorts/gWY0AemV5jM)** <strong>1,142,565 views</strong> <br>
+**Discord Friends👥** <strong>50+</strong> <br>
 ## Skills / Technologies 使用技術・スキル🛠️
-<strong>HTML Not bad</strong>
-<strong>CSS bad</strong>
-<strong>Javascript Not bad</strong>
-<strong>Node.js Not bad</strong>
-<strong>Cloudflare Not bad</strong>
-<strong>Discord Bot・API Pretty good</strong>
-<strong>Scratch Good</strong>
-<strong>Game VERY GOOD!!!!! </strong>
+<strong>HTML Not bad</strong> <br>
+<strong>CSS bad</strong> <br>
+<strong>Javascript Not bad</strong> <br>
+<strong>Node.js Not bad</strong> <br>
+<strong>Cloudflare Not bad</strong> <br>
+<strong>Discord Bot・API Pretty good</strong> <br>
+<strong>Scratch Good</strong> <br>
+<strong>Game VERY GOOD!!!!! </strong> <br>
 ## 📊 GitHub Stats
 
-![Hiromu0623's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiromu0623&show_icons=true&theme=tokyonight)
+![Hiromu0623's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiromu0623&show_icons=true&theme=tokyonight) <br>
 
 ### 💬 Thanks for visiting!
 詳しくは [Discord サポートサーバー](https://hiromu0623-discord-auth.pages.dev/support/) や[Scratch](https://scratch.mit.edu/users/Hiromu0623)をご覧ください！
